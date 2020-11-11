@@ -19,7 +19,7 @@ cd into app folder and run `yarn start`
 the application based on React, React Router, React Redux, and styled components for styling our app,
 
 
-###things to be done
+### things to be done
 
 - Add testing for all the application.
 - add more styling to all components. 
