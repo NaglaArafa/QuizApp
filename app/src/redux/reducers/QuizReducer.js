@@ -25,7 +25,6 @@ export default function QuizReducer(state = initialStat, action) {
             return Object.assign({}, state, action.payload);
 
         case EXTEND_TIME:
-            console.log("Here")
             return Object.assign({}, state, action.payload);
 
         default :

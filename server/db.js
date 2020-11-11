@@ -37,10 +37,10 @@ module.exports = [
            qtitle:"question 4",
            qDescription:"laccess information on a device, such as cookies and process personal data ?",
            qanswers:[
-              {type:"text",correct:true, txt:"answer a"},
+              {type:"text",correct:false, txt:"answer a"},
               {type:"text",correct:false, txt:"answer b"},
               {type:"text",correct:false, txt:"answer c"},
-              {type:"text",correct:false, txt:"answer d"}
+              {type:"text",correct:true, txt:"answer d"}
            ]
           },
           {
@@ -48,9 +48,9 @@ module.exports = [
            qtitle:"question 5",
            qDescription:"laccess information on a device, such as cookies and process personal data ?",
            qanswers:[
-              {type:"text",correct:true, txt:"answer a"},
+              {type:"text",correct:false, txt:"answer a"},
               {type:"text",correct:false, txt:"answer b"},
-              {type:"text",correct:false, txt:"answer c"},
+              {type:"text",correct:true, txt:"answer c"},
               {type:"text",correct:false, txt:"answer d"}
            ]
           },
@@ -70,8 +70,8 @@ module.exports = [
              qtitle:"question 7",
              qDescription:"laccess information on a device, such as cookies and process personal data ?",
              qanswers:[
-               {type:"text",correct:true, txt:"answer a"},
-               {type:"text",correct:false, txt:"answer b"},
+               {type:"text",correct:false, txt:"answer a"},
+               {type:"text",correct:true, txt:"answer b"},
                {type:"text",correct:false, txt:"answer c"},
                {type:"text",correct:false, txt:"answer d"}
             ]
@@ -92,10 +92,10 @@ module.exports = [
                qtitle:"question 9",
                qDescription:"laccess information on a device, such as cookies and process personal data ?",
                qanswers:[
-                  {type:"text",correct:true, txt:"answer a"},
+                  {type:"text",correct:false, txt:"answer a"},
                   {type:"text",correct:false, txt:"answer b"},
                   {type:"text",correct:false, txt:"answer c"},
-                  {type:"text",correct:false, txt:"answer d"}
+                  {type:"text",correct:true, txt:"answer d"}
                ]
               },
               {
@@ -103,9 +103,9 @@ module.exports = [
                qtitle:"question 10",
                qDescription:"laccess information on a device, such as cookies and process personal data ?",
                qanswers:[
-                  {type:"text",correct:true, txt:"answer a"},
+                  {type:"text",correct:false, txt:"answer a"},
                   {type:"text",correct:false, txt:"answer b"},
-                  {type:"text",correct:false, txt:"answer c"},
+                  {type:"text",correct:true, txt:"answer c"},
                   {type:"text",correct:false, txt:"answer d"}
                ]
               },
@@ -114,8 +114,8 @@ module.exports = [
                 qtitle:"question 11",
                 qDescription:"laccess information on a device, such as cookies and process personal data ?",
                 qanswers:[
-                 {type:"text",correct:true, txt:"answer a"},
-                 {type:"text",correct:false, txt:"answer b"},
+                 {type:"text",correct:false, txt:"answer a"},
+                 {type:"text",correct:true, txt:"answer b"},
                  {type:"text",correct:false, txt:"answer c"},
                  {type:"text",correct:false, txt:"answer d"}
                ]
@@ -125,9 +125,9 @@ module.exports = [
                  qtitle:"question 12",
                  qDescription:"laccess information on a device, such as cookies and process personal data ?",
                  qanswers:[
-                   {type:"text",correct:true, txt:"answer a"},
+                   {type:"text",correct:false, txt:"answer a"},
                    {type:"text",correct:false, txt:"answer b"},
-                   {type:"text",correct:false, txt:"answer c"},
+                   {type:"text",correct:true, txt:"answer c"},
                    {type:"text",correct:false, txt:"answer d"}
                 ]
                 },
@@ -158,10 +158,10 @@ module.exports = [
                    qtitle:"question 15",
                    qDescription:"laccess information on a device, such as cookies and process personal data ?",
                    qanswers:[
-                      {type:"text",correct:true, txt:"answer a"},
+                      {type:"text",correct:false, txt:"answer a"},
                       {type:"text",correct:false, txt:"answer b"},
                       {type:"text",correct:false, txt:"answer c"},
-                      {type:"text",correct:false, txt:"answer d"}
+                      {type:"text",correct:true, txt:"answer d"}
                    ]
                   },
                   {
